@@ -278,7 +278,7 @@ function App() {
             <s.TextDescription
               style={{
                 textAlign: "center",
-                fontSize: 40,
+                fontSize: 50,
                 //fontWeight: "bold",
                 color: "var(--primary)",
               }}
@@ -291,7 +291,7 @@ function App() {
             <s.TextDescription
               style={{
                 textAlign: "center",
-                fontSize: 40,
+                fontSize: 50,
                 //fontWeight: "bold",
                 color: "var(--primary)",
               }}
@@ -306,7 +306,7 @@ function App() {
             <s.TextDescription
               style={{
                 textAlign: "center",
-                fontSize: 40,
+                fontSize: 50,
                 color: "var(--primary)",
               }}
             >
@@ -323,7 +323,7 @@ function App() {
 
 
             <s.TextTitle
-              style={{ textAlign: "center", color: "var(--primary)", fontSize: 40 }}
+              style={{ textAlign: "center", color: "var(--primary)", fontSize: 50 }}
             >
               Price: {CONFIG.DISPLAY_COST}{" "}
               {CONFIG.NETWORK.SYMBOL}
@@ -336,7 +336,7 @@ function App() {
             <s.TextTitle
               style={{
                 textAlign: "center",
-                fontSize: 40,
+                fontSize: 50,
                 //fontWeight: "bold",
                 color: "var(--primary)",
               }}
