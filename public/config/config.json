@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBab92f2bC90084902dd131E90c29fd008729B54f",
+  "SCAN_LINK": "https://etherscan.io/0xBab92f2bC90084902dd131E90c29fd008729B54f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "THE CRYSTALS",
+  "SYMBOL": "CRY",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 111000000000000000,
+  "DISPLAY_COST": 0.11100000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-crystals",
+  "SHOW_BACKGROUND": true
+}
